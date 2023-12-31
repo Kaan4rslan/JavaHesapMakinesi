@@ -2,7 +2,7 @@ package tr.net.eyal.kaanarslan;
 
 import java.util.Scanner;
 
-public class HelloWorld {
+public class HesapMakinesi {
     public static void main(String[] args) {
 
         while (true) {
